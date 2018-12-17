@@ -1,0 +1,56 @@
+! font
+URxvt*font:		xft:hack:regular:size=10
+URxvt*boldFont:		xft:hack:bold:size=10
+URxvt*italicFont:	xft:hack:italic:size=10
+URxvt*boldItalicFont:	xft:hack:bold italic:size=10
+
+URxvt.scrollBar:	false
+URxvt.cursorBlink:	true
+URxct.depth:		24
+URxvt.internalBorder:	24
+URxvt.externalBorder:	0
+
+! special
+*.foreground:   	#aaaaaa
+*.background:   	#000000
+*.cursorColor:  	#aaaaaa
+
+! black
+*.color0:       	#202020
+*.color8:       	#606060
+
+! red
+*.color1:       	#ff6565
+*.color9:       	#ff8d8d
+
+! green
+*.color2:       	#93d44f
+*.color10:      	#c8e7a8
+
+! yellow
+*.color3:       	#eab93d
+*.color11:     		#ffc123
+
+! blue
+*.color4:       	#204a87
+*.color12:      	#3465a4
+
+! magenta
+*.color5:       	#ce5c00
+*.color13:      	#f57900
+
+! cyan
+*.color6:       	#89b6e2
+*.color14:      	#46a4ff
+
+! white
+*.color7:       	#cccccc
+*.color15:      	#ffffff
+
+! Rofi
+rofi.bw:		0
+rofi.hide-scrollbar:	true
+rofi.margin:		100
+rofi.color-enabled:	true
+rofi.color-window:	argb:ca000000, #aaaaaa, argb:00000000
+rofi.color-normal:	argb:00000000, #aaaaaa, argb:00000000, argb:00000000, #ff6565
