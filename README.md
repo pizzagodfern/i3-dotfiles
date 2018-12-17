@@ -1,8 +1,9 @@
-  ____                               _           _   
- / ___|  ___ _ __ ___  ___ _ __  ___| |__   ___ | |_ 
- \___ \ / __| '__/ _ \/ _ \ '_ \/ __| '_ \ / _ \| __|
-  ___) | (__| | |  __/  __/ | | \__ \ | | | (_) | |_ 
- |____/ \___|_|  \___|\___|_| |_|___/_| |_|\___/ \__|
-                                                     
+# Screenshot
 
 ![scrot](https://github.com/pizzagodfern/i3-dotfiles/blob/master/scrot.png)
+
+# Bar
+
+bumblebee-status
+
+[bumblebee](https://github.com/tobi-wan-kenobi/bumblebee-status)
