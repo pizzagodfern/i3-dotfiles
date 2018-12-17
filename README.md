@@ -6,4 +6,4 @@
 
 bumblebee-status
 
-[bumblebee](https://github.com/tobi-wan-kenobi/bumblebee-status)
+[Check out bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
