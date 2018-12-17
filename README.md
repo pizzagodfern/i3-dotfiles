@@ -4,6 +4,4 @@
 
 # Bar
 
-bumblebee-status
-
-[Check out bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
+[bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status)
